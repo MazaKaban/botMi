@@ -1,10 +1,10 @@
 {
   "name": "minecraft-afk-bot",
-  "version": "2.1.0",  // Змінено з "2.1" на "2.1.0"
+  "version": "2.1.0",
   "description": "Afk bot for minecraft servers.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",  // Додано стартовий скрипт
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lamgerr",
